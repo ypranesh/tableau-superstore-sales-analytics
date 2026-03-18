@@ -161,4 +161,4 @@ tableau-superstore-sales-analytics/
 
 ---
 
-*[Your Name] | [LinkedIn URL] | [Portfolio URL]*
+Analysis by Pranesh Yuvaraj | linkedin.com/in/pranesh-yuvaraj
